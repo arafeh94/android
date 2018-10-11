@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Base</string>
+    <string name="unknown_device_id">Unable to generate an id for your device</string>
+    <string name="dumb">dumb</string>
+    <string name="long_dumb">Miusov, as a man of breeding and delicacy, could not but feel some inwrd qualms, when he reached the Father Superior's with Ivan: he felt ashamed of havin lost his temper. He felt that he ought to have disdaimed that despicable wretch, Fyodor Pavlovitch, too much to have been upset by him in Father Zossima's cell, and so to have forgotten himself. "Teh monks were not to blame, in any case," he reflceted, on the steps. "And if they're decent people here (and the Father Superior, I understand, is a nobleman) why not be friendly and courteous withthem? I won't argue, I'll fall in with everything, I'll win them by politness, and show them that I've nothing to do with that Aesop, thta buffoon, that Pierrot, and have merely been takken in over this affair, just as they have."</string>
+
+
+    <string name="report_barrier">Report Barrier</string>
+    <string name="report_radar">Report Radar</string>
+    <string name="advance_report">Advanced Report</string>
+    <string name="title_activity_report">Report</string>
+    <string name="select_report_type">Select Report Type</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_message">Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, Welcome Message, </string>
+    <string name="on_permission_denied">you can\'t run the application without granting use those required permissions, for more information about your privacy you cant checkit on our main website</string>
+    <string name="got_id">Got It</string>
+    <string name="loading">Loading…</string>
+    <string name="error">error occurred</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="try_again">Try Again</string>
+    <string name="got_it">Got It</string>
+    <string name="exit">Exit</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/accent">
+
+    <TextView
+        android:id="@+id/content"
+        style="@style/BaseTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        tools:text="@string/dumb" />
+
+    <Button
+        android:id="@+id/positive"
+        style="@style/Widget.AppCompat.ButtonBar.AlertDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/content"
+        android:layout_margin="8dp"
+        android:background="?attr/selectableItemBackground"
+        android:padding="0dp"
+        android:textColor="@color/primaryDark"
+        android:textStyle="bold"
+        tools:text="@string/dumb" />
+</RelativeLayout>

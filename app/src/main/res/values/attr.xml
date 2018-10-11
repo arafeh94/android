@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="UnderlinedTextView">
+        <attr name="text" format="string" />
+    </declare-styleable>
+    <declare-styleable name="ReportActionButton">
+        <attr name="advancedVisibility" format="boolean"/>
+    </declare-styleable>
+</resources>
